@@ -1,0 +1,17 @@
+{
+  "name": "sg-darkup-auto-register",
+  "version": "1.0.0",
+  "description": "This folder contains two standalone proof-of-concept scripts:",
+  "main": "darkup.cz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "mineflayer": "^4.37.1",
+    "string-similarity": "^4.0.4"
+  }
+}
