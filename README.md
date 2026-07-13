@@ -39,7 +39,7 @@ String similarity with leet speak normalization. We clean the title by removing 
 
 ```bash
 # Clone the repository
-git clone https://github.com/jyrycek/minecraft-register-bypass-poc.git
+git clone https://github.com/Jyrycek/sg-darkup-auto-register.git
 cd minecraft-register-bypass-poc
 ```
 
